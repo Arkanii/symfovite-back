@@ -13,9 +13,6 @@
             "src/Entity/.gitignore"
         ]
     },
-    "composer/package-versions-deprecated": {
-        "version": "1.11.99.4"
-    },
     "doctrine/annotations": {
         "version": "1.13",
         "recipe": {
@@ -143,6 +140,9 @@
     },
     "psr/log": {
         "version": "1.1.4"
+    },
+    "roave/security-advisories": {
+        "version": "dev-latest"
     },
     "symfony/asset": {
         "version": "v5.4.0"
